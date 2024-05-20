@@ -9,13 +9,17 @@ To do list to make the code running:
 
 Reference:
 Python Excel App - Excel Viewer & Data Entry Form
+
 https://www.youtube.com/watch?v=8m4uDS_nyCk
 
 Forest-ttk-theme
+
 https://github.com/rdbende/Forest-ttk-theme
 
 Tkinter Login Form tutorial
+
 https://www.youtube.com/watch?v=MeMCBdnhvQs&t=1708s
 
 ChatGPT for fixing errors
+
 https://chat.openai.com
